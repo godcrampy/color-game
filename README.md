@@ -8,7 +8,7 @@ Download the 6. Color Game directory and run index.html on your web browser
 
 ## Authors
 
-* **Sahil Bondre** - *Initial work* - [GodCrampy](https://github.com/godcrampy)
+* **Sahil Bondre** - [GodCrampy](https://github.com/godcrampy)
 
 ## License
 
