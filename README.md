@@ -2,9 +2,6 @@
 
 RGB Color Guessing game made as a part of Web Development Bootcamp Course by Colt Steele. Helps in improving color identification from hex codes
 
-## Getting Started
-
-Download the 6. Color Game directory and run index.html on your web browser
 
 ## Authors
 
